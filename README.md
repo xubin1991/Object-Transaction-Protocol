@@ -4,4 +4,4 @@ An open object transaction protocol designed for MCU, BLE, UART, USB, and other 
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0
-International License (CC BY 4.0). See `/home/runner/work/Object-Transaction-Protocol/Object-Transaction-Protocol/LICENSE` for details.
+International License (CC BY 4.0). See `LICENSE` for details.
